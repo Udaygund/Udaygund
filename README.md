@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi there, I'm Uday Gund 👋
 
-<!--
-**Udaygund/Udaygund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI Enthusiast | Open Source Learner
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about building scalable web applications, AI-powered products, and developer-friendly software. I enjoy taking ideas from concept to deployment and continuously learning modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 B.Tech Computer Science Engineering (Graduating 2027)
+* 💻 Full-Stack Developer with a focus on modern web technologies
+* 🤖 Exploring AI, LLMs, and intelligent applications
+* 🌱 Currently learning System Design, NestJS, and Advanced TypeScript
+* ⚡ Passionate about building products that solve real-world problems
+* 🛠️ Always open to collaborating on impactful projects
+
+## 💻 Tech Stack
+
+### Frontend
+
+* React.js
+* Next.js
+* TypeScript
+* JavaScript (ES6+)
+* Tailwind CSS
+* HTML5 & CSS3
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Authentication (JWT)
+
+### Database
+
+* PostgreSQL
+* MongoDB
+* Prisma ORM
+* Firebase Firestore
+
+### Tools & Platforms
+
+* Git & GitHub
+* Docker
+* Postman
+* Linux
+* Vercel
+* Render
+* Firebase
+
+## 📌 What I'm Working On
+
+* Building AI-powered full-stack applications
+* Improving backend architecture and API design
+* Learning scalable system design
+* Contributing to open-source projects
+
+## 📈 GitHub Stats
+
+> Add GitHub Readme Stats, Streak Stats, and Top Languages cards here.
+
+## 🤝 Let's Connect
+
+* 📧 Email: **[udaygund96@gmail.com](mailto:udaygund96@gmail.com)**
+* 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+* 🌐 Portfolio: Coming Soon
+* 🐙 GitHub: https://github.com/Udaygund
+
+---
+
+### 💡 Motto
+
+> **"Build. Learn. Share. Repeat."**
