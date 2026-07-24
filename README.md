@@ -55,16 +55,12 @@ I'm a Computer Science Engineering student passionate about building scalable we
 * Learning scalable system design
 * Contributing to open-source projects
 
-## 📈 GitHub Stats
 
-> Add GitHub Readme Stats, Streak Stats, and Top Languages cards here.
 
 ## 🤝 Let's Connect
 
 * 📧 Email: **[udaygund96@gmail.com](mailto:udaygund96@gmail.com)**
-* 💼 LinkedIn: https://linkedin.com/in/your-linkedin
 * 🌐 Portfolio: Coming Soon
-* 🐙 GitHub: https://github.com/Udaygund
 
 ---
 
